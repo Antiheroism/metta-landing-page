@@ -1191,3 +1191,16 @@ button {
     transition-duration: 0.001ms !important;
   }
 }
+
+/* 页脚：公司主体信息（备案 / 应用商店审核用） */
+.site-footer {
+  padding: 56px 24px 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.9;
+  color: #8a8a8a;
+}
+.site-footer p { margin: 0; }
+.site-footer a { color: inherit; }
+.site-footer-brand { color: #555; font-weight: 600; }
